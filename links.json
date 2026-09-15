@@ -1,8 +1,19 @@
-[
-  {
-    "id":1,
-    "title":"My LinkPays",
-    "url":"https://linkpays.in/6v8yU8",
-    "icon":"💸"
-  }
-]
+{
+  "profile":{
+    "name":"ROXE",
+    "username":"@iamroxe01",
+    "bio":"Creator • Gaming • Minecraft • Entertainment",
+    "avatar":"",
+    "cover":"",
+    "location":"India",
+    "instagram":"",
+    "youtube":"",
+    "discord":""
+  },
+  "links":[
+    {"id":1,"title":"LinkPays","description":"My main LinkPays destination","url":"https://linkpays.in/6v8yU8","icon":"⚡","tag":"FEATURED","clicks":0},
+    {"id":2,"title":"YouTube Channel","description":"Watch my latest gaming videos","url":"https://youtube.com/","icon":"▶","tag":"VIDEO","clicks":0},
+    {"id":3,"title":"Instagram","description":"Follow me for updates & reels","url":"https://instagram.com/","icon":"◎","tag":"SOCIAL","clicks":0},
+    {"id":4,"title":"Join Discord","description":"Come hang out with the community","url":"https://discord.com/","icon":"◈","tag":"COMMUNITY","clicks":0}
+  ]
+}
